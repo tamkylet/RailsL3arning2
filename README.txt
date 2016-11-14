@@ -19,7 +19,7 @@ IDE used: Cloud9
 Main emphasis: testing and validation
 
 Progress: Chapter 1  [X]
-          Chapter 2  [ ]
+          Chapter 2  [X]
           Chapter 3  [ ]
           Chapter 4  [ ]
           Chapter 5  [ ]
